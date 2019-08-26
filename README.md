@@ -9,5 +9,7 @@ Based on the following projects:
 * [Project from Instructables](https://www.instructables.com/id/MIDI-Arduino-Drums/)
 
 ## Required
-* "Arduino MIDI USB library" can be installed using the Arduino library manager
+* Arduino IDE 1.6.2 or higher
+   * https://oneguyoneblog.com/2017/01/03/install-arduino-ide-linux-ubuntu-mint/
+* "Arduino MIDI USB library" which can be installed using the Arduino library manager
    * https://www.arduino.cc/en/Guide/Libraries#toc3
